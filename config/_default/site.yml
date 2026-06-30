@@ -94,9 +94,14 @@ github:
 
 # 社交媒体链接：显示在侧边栏底部；可按需增删
 social:
-#   - name: GitHub
-#     url: https://github.com
-#     icon: fab fa-github
+  - name: GitHub
+    url: https://github.com
+    icon: fab fa-github
+    hidden: true
+  - name: Telegram
+    url: https://t.me
+    icon: fab fa-telegram
+    hidden: true
 
 
 
