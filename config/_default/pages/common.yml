@@ -21,6 +21,10 @@ categories:
         icon: fas fa-star
         description: 汇通服务展示
         faviconUrl: assets/menav.svg
+      - name: 在线邮箱
+        url: https:/webmail.hutnis.com/
+        icon: fab fa-google
+        description: 汇通邮箱
       - name: OA
         url: https://oa.hutnis.com:23456/
         icon: fab fa-google
